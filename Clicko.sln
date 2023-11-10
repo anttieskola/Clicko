@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicko", "Clicko\Clicko.csproj", "{645D6ED6-FCF2-4039-A16D-851EEB3892CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickoContent", "ClickoContent\ClickoContent.contentproj", "{AA2FD9C5-A0E8-4272-B371-5CD76BF7B6AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{645D6ED6-FCF2-4039-A16D-851EEB3892CD}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{645D6ED6-FCF2-4039-A16D-851EEB3892CD}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{645D6ED6-FCF2-4039-A16D-851EEB3892CD}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{645D6ED6-FCF2-4039-A16D-851EEB3892CD}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{645D6ED6-FCF2-4039-A16D-851EEB3892CD}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{645D6ED6-FCF2-4039-A16D-851EEB3892CD}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{AA2FD9C5-A0E8-4272-B371-5CD76BF7B6AF}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{AA2FD9C5-A0E8-4272-B371-5CD76BF7B6AF}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
